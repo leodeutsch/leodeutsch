@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/leodeutsch-84329b?style=for-the-badge&labelColor=84329b&logo=github&logoColor=white&link=https://github.com/leodeutsch)](https://github.com/leodeutsch)
-[![Twitter Badge](https://img.shields.io/badge/@leonard_deutsch-1da1f2?style=for-the-badge&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/leonard_deutsch)](https://twitter.com/leonard_deutsch)
-[![Instagram Badge](https://img.shields.io/badge/@leodeutschphotos-c13584?style=for-the-badge&labelColor=c13584&logo=instagram&logoColor=white&link=https://instagram.com/leodeutschphotos)](https://instagram.com/leodeutschphotos)
-[![LinkedIn Badge](https://img.shields.io/badge/Leonardo_Rocha-2867b2?style=for-the-badge&labelColor=2867b2&logo=linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-rocha-b08328150)](https://linkedin.com/in/leonardo-rocha-b08328150)
+[![Github Badge](https://img.shields.io/badge/leodeutsch-84329b?style=flat-square&labelColor=84329b&logo=github&logoColor=white&link=https://github.com/leodeutsch)](https://github.com/leodeutsch)
+[![Twitter Badge](https://img.shields.io/badge/@leonard_deutsch-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/leonard_deutsch)](https://twitter.com/leonard_deutsch)
+[![Instagram Badge](https://img.shields.io/badge/@leodeutschphotos-c13584?style=flat-square&labelColor=c13584&logo=instagram&logoColor=white&link=https://instagram.com/leodeutschphotos)](https://instagram.com/leodeutschphotos)
+[![LinkedIn Badge](https://img.shields.io/badge/Leonardo_Rocha-2867b2?style=flat-square&labelColor=2867b2&logo=linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-rocha-b08328150)](https://linkedin.com/in/leonardo-rocha-b08328150)
 
 ### Languages and Tools:
 
