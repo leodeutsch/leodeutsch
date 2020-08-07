@@ -1,4 +1,4 @@
-# Hey there, I'm Leo 👨🏻‍💻
+# Hi there, I'm Leo 👨🏻‍💻
 
 ### I'm a Developer, Photographer and tech addict!
 
