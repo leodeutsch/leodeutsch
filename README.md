@@ -2,10 +2,10 @@
 
 ### I'm a Developer, Photographer and tech addict!
 
-- 🚀 Just finished a [Rocketseat][rocket] bootcamp!
-- 💻 I’m currently focusing on web and mobile 📱
-- 🤝 I’m looking to collaborate in new projects
-- 👨🏻‍🎓 Always learning
+- 🚀  Just finished a [Rocketseat][rocket] bootcamp!
+- 💻  I’m currently focusing on web and mobile 📱
+- 🤝  I’m looking for collaborate in new projects
+- 👨🏻‍🎓  Always learning
 
 ### Connect with me:
 
