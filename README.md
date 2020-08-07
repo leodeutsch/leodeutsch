@@ -12,7 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/leodeutsch-84329b?style=flat-square&labelColor=84329b&logo=github&logoColor=white&link=https://github.com/leodeutsch)](https://github.com/leodeutsch)
 [![Twitter Badge](https://img.shields.io/badge/@leonard_deutsch-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/leonard_deutsch)](https://twitter.com/leonard_deutsch)
-[![Discord Badge](https://img.shields.io/badge/Leo.me#5043-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)
+[![Discord Badge](https://img.shields.io/badge/(Leo.me#5043)-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/Leonardo_Rocha-2867b2?style=flat-square&labelColor=2867b2&logo=linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-rocha-b08328150)](https://linkedin.com/in/leonardo-rocha-b08328150)
 
 
