@@ -17,6 +17,6 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,java,sping,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,java,spring,react,ts)](https://skillicons.dev)
 
 [rocket]: https://rocketseat.com.br
