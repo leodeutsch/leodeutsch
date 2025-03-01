@@ -23,6 +23,5 @@
 - **Git**: Version control to manage codebase efficiently.
 - **VS Code**: Preferred code editor for most of my projects.
 
-### Call to Action:
 
 I'm always open to new opportunities and collaborations! Feel free to reach out if you'd like to work together or just have a chat about tech.
